@@ -1,0 +1,46 @@
+body {
+  font-family: 'Montserrat', Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.header {
+  text-align: center;
+  color: white;
+  background-color: green;
+  background-image: url(images/background.jpg);
+  background-size: cover;
+  padding: 30px;
+}
+
+.header img {
+  border: 5px solid white;
+  border-radius: 50%;
+}
+
+div {
+  padding: 30px;
+}
+
+.skills {
+  background-color: lightgreen;
+  color: black;
+}
+
+.footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.footer img {
+  padding: 5px;
+}
+
+.footer p {
+  font-size: 12px;
+  text-transform: uppercase;
+}
